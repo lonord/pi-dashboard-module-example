@@ -1,6 +1,6 @@
 {
   "name": "@lonord/pi-dashboard-module-example",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Example module of pi dashboard",
   "main": "lib/",
   "types": "lib/",
