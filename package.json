@@ -1,6 +1,6 @@
 {
   "name": "@lonord/pi-dashboard-module-example",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Example module of pi dashboard",
   "main": "lib/",
   "types": "lib/",
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/lonord/pi-dashboard-module-example#readme",
   "devDependencies": {
     "@lonord/react-electron-components": "^1.0.8",
+    "@types/node": "^9.4.6",
     "@types/react": "^16.0.39",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
